@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+public struct FoodTeaModel {
+    public var a: String?
+    public var b: String?
+}
